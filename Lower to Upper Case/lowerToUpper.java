@@ -5,7 +5,7 @@ public class LowerToUpper {
         Scanner scan= new Scanner((System.in));
         System.out.println("Enter the String in CAPITAL:");
         String s=scan.nextLine();
-        System.out.println(s.toLowerCase());
+        System.out.println(s.toUpperCase());
 
     }
 }
