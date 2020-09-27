@@ -2,7 +2,7 @@ public class compress {
 
     public static void main(String[] args) {
         String s="";
-        String s1="a";
+        String s1="aaaaabbbccccccccdaa";
         int n=s1.length();
         char c=s1.charAt(0);
         int count=1;
