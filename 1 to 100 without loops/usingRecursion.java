@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LowerToUpper{
+public class usingRecursion{
     static int i=1;
     public static void main(String args[]){
 
