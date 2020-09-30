@@ -6,9 +6,8 @@ public class PowerUsingRecursion {
         int result=0;
         if(p==0)
             result=1;
-        else{
+        else
             result= n*power(n,p-1);
-        }
     return result;
 
     }
